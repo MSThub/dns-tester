@@ -14,6 +14,19 @@ The tool automatically:
 
 ---
 
+📖 **Looking for the Persian (فارسی) documentation?**
+
+Read the Persian version here: **[README_fa.md](README_fa.md)**
+
+---
+
+## A little preview 
+<img width="649" height="688" alt="image" src="https://github.com/user-attachments/assets/1f9be5bf-103e-40db-80d7-aba0471d0206" />
+
+*The tool tests multiple DNS servers against a target URL. Each result shows the DNS name, IP address, HTTP status, and ping response time (if successful). At the end, a summary and the saved result file are displayed.*
+
+---
+
 ## Requirements
 
 * Windows
